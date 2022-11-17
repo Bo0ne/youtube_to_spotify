@@ -1,5 +1,0 @@
-googleAPIkey = 'XXX'
-# Spotify
-client_id = 'XXX'
-client_secret = 'XXX'
-vidID = 'XXX'
