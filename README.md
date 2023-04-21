@@ -13,4 +13,4 @@ A Python utility that converts music compilation videos on YouTube into a Spotif
 * Enter the ID of the Youtube video you want to convert. For example the ID of the following video `https://www.youtube.com/watch?v=QkKpbkpwv0U` is `QkKpbkpwv0U`
 * You will be redirected to Spotify and asked to login.
 * After logging in, please copy the URL you were redirected to and paste into the command line. A redirect URL looks like the following: `https://example.com/callback?code=LONG_STRING_OF_CHARACTERS`
-* The application will not create a new Playlist in your Spotify with the title of the Youtube video you specified. You will be notified in the command line if a song cannot be found. After the program has finished you can enter another video ID to convert to a Spotify Playlist.
+* The application will now create a new Playlist in your Spotify with the title of the Youtube video you specified. You will be notified in the command line if a song cannot be found. After the program has finished you can enter another video ID to convert to a Spotify Playlist.
